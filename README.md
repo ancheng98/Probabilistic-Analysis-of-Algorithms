@@ -4,7 +4,7 @@ Topics include: random search trees, random graphs, percolation, MCMC, and entro
 
 I included several problem sets and personal solutions for me to review at my convenience. Feel free to take a look, attempt some problems, and share any better solutions you may find :)
 
-Assignment 1: Refresher on Probability
+Assignment 1: Refresher on Probability \\
 Assignment 2: Random Binary Search Trees
 Assignment 3: Galton-Watson Trees
 Assignment 4: Random Graphs: Erdos-Renyi and Colouring
