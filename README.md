@@ -9,6 +9,6 @@ Assignment 2: Random Binary Search Trees <br>
 Assignment 3: Galton-Watson Trees<br>
 Assignment 4: Random Graphs: Erdos-Renyi and Colouring <br>
 Assignment 5: Site Percolation<br>
-Assignment 6: MCMC<br>
-Assignment 7: MCMC<br>
-Assignment 8: MCMC and Entropy<br>
+Assignment 6: Markov Chains and Monte Carlo Algorithms<br>
+Assignment 7: Markov Chain Coupling Techniques<br>
+Assignment 8: Markov Chains + Entropy<br>
